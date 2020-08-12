@@ -2454,6 +2454,21 @@ background-color: <<colour tiddler-info-background>>;}
   border:0px solid #eee;background-color:#eee;
   word-break: break-all; word-wrap: break-word;}
 
-.tc-tiddler-controls {
+body.tc-body {
+    background-color: #fafafa;
+    font-family: Lato;
+}.tc-tiddler-controls {
    display: none;
+}.tc-tiddler-frame {
+    background-color: #ffffff;
+    text-align: justify;
+    font-size: 15px;
+    line-height: 23px;
+    box-shadow: none;
+}h1, h2, h3, h4, h5, h6 {
+    color: black;
+}.tc-site-title {
+    color: black;
+}.tc-titlebar {
+    text-align: left;
 }
