@@ -2471,9 +2471,9 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 15px;
     line-height: 23px;
     box-shadow: none;
-    width: 900px;
+    width: 800px;
 }.tc-sidebar-scrollable {
-    left: 1000px;
+    left: 900px;
 }.tc-tiddler-controls {
    display: none;
 }
